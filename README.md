@@ -18,12 +18,3 @@
 ## 🧑‍💻 Pronouns
 He/Him
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark" alt="GitHub Streak" />
-</p>
