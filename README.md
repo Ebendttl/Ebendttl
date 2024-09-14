@@ -7,9 +7,6 @@
 
 ## 📫 How to reach me
 
-[![Email](https://img.shields.io/badge/Email-ebendttl%40gmail.com-red?style=flat-square&logo=gmail)](mailto:ebendttl@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ebenezer%20Akinseinde-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ebenezer-akinseinde)
-[![Twitter](https://img.shields.io/badge/Twitter-Eben__Akinseinde-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/Eben_Akinseinde)
 
 ## 💡 Fun Fact
 
