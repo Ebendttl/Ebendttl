@@ -2,7 +2,8 @@
 
 ## 🚀 About Me
 - 💡 A Certified ALX Software Engineer specializing in backend development
-- 👀 Interested in Web3. Currently a Clarity Programmer (build on the Stacks Blockchain) 
+- 🌱 Tech stack: | Python | JS | React | Node.js | 
+- 🌱 Build on the Stacks Blockchain 
 - 🌱 Learning to build with Rust 
 
 ## 💡Certifications
