@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 - 💡 A Certified ALX Software Engineer specializing in backend development
-- 🌱 Tech stack: | Python | JS | React | Node.js | 
-- 🌱 Build on the Stacks Blockchain 
+- 🌱 Tech stack: React | Next | Node.js | Python | Clarity | Move | AI/ML
+- 🌱 Build on the Stacks and Sui Blockchain 
 - 🌱 Learning to build with Rust 
 
 ## 💡Certifications
