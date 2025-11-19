@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Akinseinde Ebenezer
 
 ## 🚀 About Me
-- 💡 A Certified ALX Software Engineer specializing in backend development
+- 💡 A Certified ALX Software Engineer specializing in full-stack development
 - 🌱 Tech stack: React | Next | Node.js | Python | Clarity | Move | AI/ML
 - 🌱 Build on the Stacks and Sui Blockchain 
 - 🌱 Learning to build with Rust 
