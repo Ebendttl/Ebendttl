@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Akinseinde Ebenezer
 
 ## 🚀 About Me
+- 💡 Software Engineer @ Gamr (gamr.africa)
 - 💡 A Certified ALX Software Engineer specializing in full-stack development
 - 🌱 Tech stack: React | Next | Node.js | Python | Clarity | Move | AI/ML
 - 🌱 Build on the Stacks and Sui Blockchain 
