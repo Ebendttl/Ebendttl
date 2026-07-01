@@ -12,7 +12,10 @@
 ![SE Certificate](https://github.com/Ebendttl/Ebendttl/blob/main/SE-Certificate.png)
 
             Completion of the 1-Month AI For Developers I Program
-![AIFD 1 Certificate](https://github.com/Ebendttl/Ebendttl/blob/main/AIFD-1%20Certificate.png)
+![AIFD I Certificate](https://github.com/Ebendttl/Ebendttl/blob/main/AIFD-1%20Certificate.png)
+
+            Completion of the 1-Month AI For Developers II Program
+![AIFD II Certificate](https://github.com/Ebendttl/Ebendttl/blob/main/AIFD-II%20Certificate.png)
 
             Completion of the 1-Month AI Starter Kit Program
 ![AiSK Certificate](https://github.com/Ebendttl/Ebendttl/blob/main/AiSK-Certificate.png)
